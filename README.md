@@ -12,7 +12,7 @@ Feel free to customize and improve the scraper for your specific needs.
 
 ## Author
 
-[Your Name]
+Atharv Shinde
 
 ## License
 
